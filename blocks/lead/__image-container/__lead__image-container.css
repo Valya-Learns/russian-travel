@@ -1,0 +1,9 @@
+.lead__image-container{
+    margin: 0 auto;
+    overflow: hidden;
+    max-width: 984px;
+    display: flex;
+    flex-direction: column;
+    column-gap: 8px;
+    padding-bottom: 92px;
+}

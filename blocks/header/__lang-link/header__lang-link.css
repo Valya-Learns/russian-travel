@@ -1,0 +1,8 @@
+.header__lang-link{
+    display: flex;
+    border: solid red;
+    min-width: 78px;
+    min-height: 28px;
+    gap: 18px;
+    list-style-type: none;
+}
