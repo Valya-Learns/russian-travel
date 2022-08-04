@@ -1,8 +1,4 @@
-.link{
+.lang-link_disabled{
     text-decoration: none;
     color: white;
-}
-
-.link:hover{
-    opacity: .8;
 }
