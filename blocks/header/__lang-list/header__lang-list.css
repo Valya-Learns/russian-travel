@@ -1,6 +1,6 @@
 .header__lang-list{
         display: flex;
-        max-width: 78px;
+        min-width: 78px;
         gap: 18px;
         list-style-type: none;
         margin: 0;
@@ -14,9 +14,8 @@
     
     @media screen and (max-width: 767px) {
         .header__lang-list{
-            max-width: 62px;
+            min-width: 62px;
             font-size: 18px;
-            line-height: 20px;
             line-height: 20px;
             padding-top: 14px;
             padding-bottom: 8px;
